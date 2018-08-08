@@ -1,0 +1,11 @@
+{
+	"description": "Teste a ser avaliado",
+	"name": "Heróis",
+	"type": "project",
+	"support": {
+		"source": "https://github.com/cadu1/herois"
+	},
+	"require": {
+		"php": ">=5.3.7"
+	},
+}
