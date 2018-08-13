@@ -6,6 +6,10 @@
 		"source": "https://github.com/cadu1/herois"
 	},
 	"require": {
-		"php": ">=5.3.7"
+		"php": ">=5.3.7",
+		"chriskacerguis/codeigniter-restserver": "^3.0"
 	},
+	"config": {
+        "vendor-dir": "application/vendor"
+    }
 }
